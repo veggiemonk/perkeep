@@ -1,1 +1,1 @@
-See https://camlistore.org/doc/app-environment
+See https://perkeep.org/doc/app-environment
